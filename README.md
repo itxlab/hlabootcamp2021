@@ -9,13 +9,13 @@ Health Log Analytics Bootcamp 2021
 * [Install ELK on AWS](https://github.com/pangealab/nemesis)
 * [Install Fluentbit on EKS](https://github.com/pangealab/phobos)
 
-# Install MID on AWS
-
-* [Install MID on AWS](https://github.com/pangealab/tyche)
-
 # Request NOW Instance
 
 * [Request NOW Instance](docs/RequestNOWInstance.md)
+
+# Install MID on AWS
+
+* [Install MID on AWS](https://github.com/pangealab/tyche)
 
 # Install HLA on NOW
 
