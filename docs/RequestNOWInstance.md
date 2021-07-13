@@ -20,5 +20,7 @@
 
 * Create a MID User as follows
 
+    > NOTE: Safeguard your Credentials after `MID User` has been created
+
     ![Intro](miduser1.png)
 
