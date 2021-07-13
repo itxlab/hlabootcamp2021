@@ -10,7 +10,7 @@
 
 * Request a `New Internal Instance Request`
 
-* Safeguard your URL and `admin` credentials after instance has been provisioned
+* After instance has been provisioned, safeguard your URL and `admin` credentials
 
 # Create MID Server User
 
