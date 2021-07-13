@@ -6,7 +6,7 @@ Health Log Analytics Bootcamp 2021
 
 * [Install EKS on AWS](https://github.com/pangealab/uranus)
 * [Install Boutique on EKS](https://github.com/pangealab/helios)
-* [Install ELK on AWS](https://github.com/pangealab/nemesis)
+* [Install Elastic Search (ES) on AWS](https://github.com/pangealab/nemesis)
 * [Install Fluentbit on EKS](https://github.com/pangealab/phobos)
 
 # Request NOW Instance
