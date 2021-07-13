@@ -18,7 +18,7 @@
 
 * Navigate to the `Guided Setup > ITOM Guided Setup` Screen
 
-* Create a MID User as follows and safeguard credentials
+* Create a `MID User` as follows and safeguard credentials
 
     ![Intro](miduser1.png)
 
