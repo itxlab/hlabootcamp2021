@@ -11,6 +11,8 @@ Health Log Analytics Bootcamp 2021
 
 # Install MID on AWS
 
+* [Install MID on AWS](https://github.com/pangealab/tyche)
+
 # Install HLA on NOW
 
 # Trigger Anomaly
