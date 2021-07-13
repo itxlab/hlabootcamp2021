@@ -4,10 +4,10 @@ Health Log Analytics Bootcamp 2021
 
 # Prerequisites
 
-* Install EKS on AWS
-* Install Boutique on EKS
-* Install ELK on AWS
-* Install Fluentbit on EKS
+* [Install EKS on AWS](https://github.com/pangealab/uranus)
+* [Install Boutique on EKS](https://github.com/pangealab/helios)
+* [Install ELK on AWS](https://github.com/pangealab/nemesis)
+* [Install Fluentbit on EKS](https://github.com/pangealab/phobos)
 
 # Install MID on AWS
 
