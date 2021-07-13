@@ -20,4 +20,4 @@
 
 * Create a `MID User` as follows and safeguard credentials
 
-    ![MID User](miduser1.png)
+    ![Figure](miduser1.png)
