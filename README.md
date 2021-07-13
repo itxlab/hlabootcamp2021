@@ -11,7 +11,7 @@ Health Log Analytics Bootcamp 2021
 
 # Request NOW Instance
 
-* [Request NOW Instance](docs/RequestNOWInstance.md)
+* [Request NOW Instance](docs/content/request-now-instance.md)
 
 # Install MID on AWS
 
@@ -19,7 +19,7 @@ Health Log Analytics Bootcamp 2021
 
 # Install HLA on NOW
 
-* [Install HLA on NOW](docs/InstallHLAonNOW.md)
+* [Install HLA on NOW](docs/content/install-hla-on-now.md)
 
 # Trigger Anomaly
 
