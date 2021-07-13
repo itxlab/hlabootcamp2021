@@ -15,11 +15,11 @@ Health Log Analytics Bootcamp 2021
 
 # Request NOW Instance
 
-* [Request NOW Instance](RequestNOWInstance.md)
+* [Request NOW Instance](docs/RequestNOWInstance.md)
 
 # Install HLA on NOW
 
-* [Install HLA on NOW](InstallHLAonNOW.md)
+* [Install HLA on NOW](docs/InstallHLAonNOW.md)
 
 # Trigger Anomaly
 
