@@ -1,4 +1,4 @@
-![Intro](./docs/hlaalert1.png)
+![Intro](docs/images/hlaalert1.png)
 
 Health Log Analytics Bootcamp 2021
 
